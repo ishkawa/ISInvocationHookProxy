@@ -1,4 +1,4 @@
-ISInvocationHookProxy
+ISInvocationHookProxy [![Build Status](https://travis-ci.org/ishkawa/ISInvocationHookProxy.png)](https://travis-ci.org/ishkawa/ISInvocationHookProxy) [![Coverage Status](https://coveralls.io/repos/ishkawa/ISInvocationHookProxy/badge.png?branch=master)](https://coveralls.io/r/ishkawa/ISInvocationHookProxy?branch=master)
 =====================
 
 A proxy object that hooks each NSInvocation of target.
