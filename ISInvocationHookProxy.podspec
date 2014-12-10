@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "ISInvocationHookProxy"
   s.version      = "0.0.1"
   s.platform     = :ios, '4.3'
-  s.summary      = "LRU disk cache for iOS."
+  s.summary      = "A proxy object that hooks each NSInvocation of target."
   s.homepage     = "https://github.com/ishkawa/ISInvocationHookProxy"
   s.author       = { "Yosuke Ishikawa" => "y@ishkawa.org" }
   s.source       = { :git => "https://github.com/ishkawa/ISInvocationHookProxy.git", :tag => "0.0.1" }
