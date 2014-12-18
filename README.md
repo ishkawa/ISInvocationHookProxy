@@ -1,5 +1,9 @@
-ISInvocationHookProxy [![Build Status](https://travis-ci.org/ishkawa/ISInvocationHookProxy.png)](https://travis-ci.org/ishkawa/ISInvocationHookProxy) [![Coverage Status](https://coveralls.io/repos/ishkawa/ISInvocationHookProxy/badge.png?branch=master)](https://coveralls.io/r/ishkawa/ISInvocationHookProxy?branch=master)
+ISInvocationHookProxy
 =====================
+
+[![Version](https://img.shields.io/cocoapods/v/ISInvocationHookProxy.svg?style=flat)](http://cocoadocs.org/docsets/ISInvocationHookProxy)
+[![Build Status](https://img.shields.io/travis/ishkawa/ISInvocationHookProxy.svg?style=flat)](https://travis-ci.org/ishkawa/ISInvocationHookProxy)
+[![Coverage Status](https://img.shields.io/coveralls/ishkawa/ISInvocationHookProxy.svg?style=flat)](https://coveralls.io/r/ishkawa/ISInvocationHookProxy)
 
 A proxy object that hooks each NSInvocation of target.
 
